@@ -1,0 +1,4 @@
+manga-plugins
+requests
+lxml
+cssselect
