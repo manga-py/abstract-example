@@ -1,4 +1,3 @@
 manga-plugins
 requests
-lxml
-cssselect
+my-awesome-crawler

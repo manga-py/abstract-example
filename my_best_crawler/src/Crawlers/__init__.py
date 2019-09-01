@@ -1,4 +1,4 @@
-from manga_plugins.src.Provider import Provider
+from manga_plugins.Provider import Provider
 from abc import ABC
 import re
 from requests import get

@@ -1,7 +1,7 @@
 from typing import List
 from requests import get
 import re
-from manga_plugins.src.Provider import Provider
+from manga_plugins.Provider import Provider
 
 
 class AwesomeProvider(Provider):
